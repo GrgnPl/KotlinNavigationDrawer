@@ -4,24 +4,24 @@
     android:title="İşlemler">
         <menu>
             <item
-                android:id="@+id/OdemeBilgiActivity"
+                android:id="@+id/BuradaOluşturduğunuz Aktivite İsminizi Yazmanız Gerekiyor AnaActivity Gibi"
                 android:icon="@drawable/ic_baseline_info_24"
-                android:title="Ödeme Bilgilerim">
+                android:title="O Aktivitede Gözükecek Yazı">
             </item>
             <item
-                android:id="@+id/TalepEtActivity"
+                 android:id="@+id/BuradaOluşturduğunuz Aktivite İsminizi Yazmanız Gerekiyor AnaActivity Gibi"
                 android:icon="@drawable/ic_baseline_attach_money_24"
-                android:title="Para Çekimine Git">
+                android:title="O Aktivitede Gözükecek Yazı">
             </item>
             <item
-                android:id="@+id/ProfilActivity"
+                android:id="@+id/BuradaOluşturduğunuz Aktivite İsminizi Yazmanız Gerekiyor AnaActivity Gibi"
                 android:icon="@drawable/ic_baseline_cached_24"
-                android:title="Para Dönüştürmeye Git">
+                android:title="O Aktivitede Gözükecek Yazı">
             </item>
             <item
-                android:id="@+id/MenuActivity"
+                android:id="@+id/BuradaOluşturduğunuz Aktivite İsminizi Yazmanız Gerekiyor AnaActivity Gibi"
                 android:icon="@drawable/ic_baseline_remove_red_eye_24"
-                android:title="Reklam İzlemeye Git">
+                android:title="O Aktivitede Gözükecek Yazı">
 
             </item>
         </menu>
@@ -29,19 +29,19 @@
     <item android:title="Ayarlar">
         <menu>
             <item
-                android:id="@+id/ContactActivity"
+                 android:id="@+id/BuradaOluşturduğunuz Aktivite İsminizi Yazmanız Gerekiyor AnaActivity Gibi"
                 android:icon="@drawable/ic_baseline_call_24"
-                android:title="İletişim">
+                android:title="O Aktivitede Gözükecek Yazı">
             </item>
             <item
-                android:id="@+id/HesabimActivity"
+                 android:id="@+id/BuradaOluşturduğunuz Aktivite İsminizi Yazmanız Gerekiyor AnaActivity Gibi"
                 android:icon="@drawable/ic_baseline_password_24"
-                android:title="Şifre Değiştirmeye Git">
+                android:title="O Aktivitede Gözükecek Yazı">
             </item>
             <item
-                android:id="@+id/MainActivity"
+                 android:id="@+id/BuradaOluşturduğunuz Aktivite İsminizi Yazmanız Gerekiyor AnaActivity Gibi"
                 android:icon="@drawable/ic_baseline_exit_to_app_24"
-                android:title="Çıkış Yap">
+                android:title="O Aktivitede Gözükecek Yazı">
             </item>
         </menu>
     </item>
