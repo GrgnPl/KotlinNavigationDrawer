@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:title="İşlemler">
+        <menu>
+            <item
+                android:id="@+id/OdemeBilgiActivity"
+                android:icon="@drawable/ic_baseline_info_24"
+                android:title="Ödeme Bilgilerim">
+            </item>
+            <item
+                android:id="@+id/TalepEtActivity"
+                android:icon="@drawable/ic_baseline_attach_money_24"
+                android:title="Para Çekimine Git">
+            </item>
+            <item
+                android:id="@+id/ProfilActivity"
+                android:icon="@drawable/ic_baseline_cached_24"
+                android:title="Para Dönüştürmeye Git">
+            </item>
+            <item
+                android:id="@+id/MenuActivity"
+                android:icon="@drawable/ic_baseline_remove_red_eye_24"
+                android:title="Reklam İzlemeye Git">
+
+            </item>
+        </menu>
+</item>
+    <item android:title="Ayarlar">
+        <menu>
+            <item
+                android:id="@+id/ContactActivity"
+                android:icon="@drawable/ic_baseline_call_24"
+                android:title="İletişim">
+            </item>
+            <item
+                android:id="@+id/HesabimActivity"
+                android:icon="@drawable/ic_baseline_password_24"
+                android:title="Şifre Değiştirmeye Git">
+            </item>
+            <item
+                android:id="@+id/MainActivity"
+                android:icon="@drawable/ic_baseline_exit_to_app_24"
+                android:title="Çıkış Yap">
+            </item>
+        </menu>
+    </item>
+
+</menu>
