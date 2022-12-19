@@ -37,7 +37,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="50dp"
-                android:text="İzleyerek Kazan"
+                android:text="İstediğiniz Bir Yazı"
                 android:textColor="@color/colorAccent"
                 android:textSize="16dp"
                 android:textStyle="bold|normal">
