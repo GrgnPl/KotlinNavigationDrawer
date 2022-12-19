@@ -13,7 +13,7 @@
 
         android:layout_marginLeft="20dp"
         android:scaleType="centerCrop"
-        android:src="@drawable/newlogo"
+        android:src="istediginiz bir logo"
         app:strokeColor="@android:color/darker_gray"
         app:strokeWidth="2dp">
 
