@@ -1,4 +1,4 @@
-package com.izleyerekkazan.izlekazanprojesi
+package com.android.activity
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -9,7 +9,6 @@ import androidx.annotation.Keep
 import androidx.core.view.GravityCompat
 @Keep
 class Activity : AppCompatActivity() {
-    val kdi= ApiUtils.getKisilerDaoInterface()
     private lateinit var binding: ActivityBinding
     lateinit var bottomnav: BottomNavigationView
     override fun onCreate(savedInstanceState: Bundle?) {
